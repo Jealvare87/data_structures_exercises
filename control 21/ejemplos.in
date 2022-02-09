@@ -1,0 +1,33 @@
+an_ecosistema sabana
+an_ejemplares sabana cebra 80
+an_ejemplares sabana leon 5
+an_ejemplares sabana hipopotamo 20
+an_ejemplares sabana leon 1
+lista_especies_ecosistema sabana 3
+numero_ejemplares_en_ecosistema sabana cebra
+numero_ejemplares_en_ecosistema sabana leon
+numero_ejemplares_en_ecosistema sabana hipopotamo
+an_ecosistema jungla
+an_ejemplares jungla leon 2
+an_ejemplares jungla cocodrilo 50
+an_ejemplares jungla hipopotamo 7
+lista_especies_ecosistema jungla 3
+numero_ejemplares_en_ecosistema jungla leon
+numero_ejemplares_en_ecosistema jungla cocodrilo
+numero_ejemplares_en_ecosistema jungla hipopotamo
+lista_especies_parque
+numero_ejemplares_en_parque leon
+numero_ejemplares_en_parque cocodrilo
+numero_ejemplares_en_parque hipopotamo
+numero_ejemplares_en_parque cebra
+an_ecosistema sabana
+an_ejemplares tundra oso 25
+lista_especies_ecosistema tundra 1
+numero_ejemplares_en_ecosistema tundra oso
+lista_especies_ecosistema sabana 0
+lista_especies_ecosistema sabana 1
+lista_especies_ecosistema sabana 2
+lista_especies_ecosistema sabana 4
+lista_especies_ecosistema sabana -1
+numero_ejemplares_en_ecosistema jungla papagayo
+numero_ejemplares_en_parque papagayo
