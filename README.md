@@ -1,2 +1,2 @@
-# data_structures_exercises
+# Data Structures exercises
 Data structures exercises
